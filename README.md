@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sappho192&hide=html,css,javascript&layout=compact)](https://github.com/sappho192)
 
 - 🔭 I’m currently in mandatory military service until Dec. 2024.
-- 🌱 I’m currently learning functional programming, music AI and Japanese (JLPT N2).
+- 🌱 I’m currently learning functional programming, music AI and Japanese (JLPT N1).
 - 👯 I’m looking to collaborate on something based on C# language or my learning area.
 
 I like to organize a program to solve the inconvenience I have experienced in my daily life. This is why each pinned repositories have differences.  
