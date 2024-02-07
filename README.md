@@ -10,5 +10,3 @@
 
 I like to organize a program to solve the inconvenience I have experienced in my daily life. This is why each pinned repositories have differences.  
 Therefore, I regard it as the right self-development to gain various development experiences regardless of the field.
-
-[[Resume (職務経歴書)](https://drive.google.com/file/d/17NOhJP31O97fwc2xtm__CBTJy_kO_uNE/view?usp=sharing)]
